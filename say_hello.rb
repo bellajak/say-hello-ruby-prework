@@ -3,4 +3,4 @@ def say_hello(name = "Ruby Programmer")
   Puts "Hello #{name}!"
 end
 
-puts say_hello("Gabriela")
+say_hello("Gabriela")
